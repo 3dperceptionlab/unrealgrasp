@@ -9,6 +9,10 @@ Interaction in virtual reality (VR) environments is essential to achieve a pleas
 
 
 
+In the following video we can observe the quantitative evaluation where we smoothly interact with objects from the YCB dataset:
+[![videocover1]](https://youtu.be/4sPhLbHpywM)
+
+
 ## Paper
 
 Sergiu Oprea, Pablo Martinez-Gonzalez, Alberto Garcia-Garcia, John Alejandro Castro-Vargas, Sergio Orts-Escolano, and Jose Garcia-Rodriguez [TBD:PaperLink](https://arxiv.org/abs/1810.06936)
