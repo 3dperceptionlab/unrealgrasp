@@ -13,6 +13,10 @@ In the following video we can observe the quantitative evaluation where we smoot
 [![videocover1]](https://youtu.be/4sPhLbHpywM)
 
 
+## Available versions
+
+Project is available for different Unreal Engine versions such as: 4.19, 4.20 and 4.21. A git branch was created for each version, so please select the corresponding branch to access the desired version.
+
 ## Paper
 
 Sergiu Oprea, Pablo Martinez-Gonzalez, Alberto Garcia-Garcia, John Alejandro Castro-Vargas, Sergio Orts-Escolano, and Jose Garcia-Rodriguez [TBD:PaperLink](https://arxiv.org/abs/1810.06936)
