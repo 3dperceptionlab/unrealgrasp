@@ -2,12 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.21",
 	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "VictoryBPLibrary",
-			"Enabled": true,
-			"MarketplaceURL": "http://www.ue4code.com"
-		}
-	]
+	"Description": ""
 }
