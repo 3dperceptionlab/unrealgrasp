@@ -19,7 +19,7 @@ Project is available for different Unreal Engine versions such as: 4.19, 4.20 an
 
 ## Paper
 
-Sergiu Oprea, Pablo Martinez-Gonzalez, Alberto Garcia-Garcia, John Alejandro Castro-Vargas, Sergio Orts-Escolano, and Jose Garcia-Rodriguez [TBD:PaperLink](https://arxiv.org/abs/1810.06936)
+Sergiu Oprea, Pablo Martinez-Gonzalez, Alberto Garcia-Garcia, John Alejandro Castro-Vargas, Sergio Orts-Escolano, and Jose Garcia-Rodriguez [A visually realistic grasping system for object manipulation and interaction in virtual reality environments](https://www.sciencedirect.com/science/article/pii/S0097849319301098)
 
 Work submitted to Computer and Graphics journal (El Sevier).
 
