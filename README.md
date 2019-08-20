@@ -21,17 +21,23 @@ Project is available for different Unreal Engine versions such as: 4.19, 4.20 an
 
 Sergiu Oprea, Pablo Martinez-Gonzalez, Alberto Garcia-Garcia, John Alejandro Castro-Vargas, Sergio Orts-Escolano, and Jose Garcia-Rodriguez [TBD:PaperLink](https://arxiv.org/abs/1810.06936)
 
-Submitted to ... journal.
+Work submitted to Computer and Graphics journal (El Sevier).
 
 If you use UnrealROX, please cite:
 
 ```
-@article{Unrealgrasp2019,
-  title={},
-  author={Oprea, Sergiu and Martinez-Gonzalez, Pablo and Garcia-Garcia, Alberto and Castro-Vargas, John Alejandro and Orts-Escolano, Sergio and Garcia-Rodriguez, Jose},
-  journal={ArXiv e-prints},
-  eprint = {},
-  year={2019}
+@article{Oprea2019,
+title = "A visually realistic grasping system for object manipulation and interaction in virtual reality environments",
+journal = "Computers & Graphics",
+volume = "83",
+pages = "77 - 86",
+year = "2019",
+issn = "0097-8493",
+doi = "https://doi.org/10.1016/j.cag.2019.07.003",
+url = "http://www.sciencedirect.com/science/article/pii/S0097849319301098",
+author = "Sergiu Oprea and Pablo Martinez-Gonzalez and Alberto Garcia-Garcia and John A. Castro-Vargas and Sergio Orts-Escolano and Jose Garcia-Rodriguez",
+keywords = "Human-computer interaction, Virtual reality, User studies",
+abstract = "Interaction in virtual reality (VR) environments (e.g. grasping and manipulating virtual objects) is essential to ensure a pleasant and immersive experience. In this work, we propose a visually realistic, flexible and robust grasping system that enables real-time interactions in virtual environments. Resulting grasps are visually realistic because hand is automatically fitted to the object shape from a position and orientation determined by the user using the VR handheld controllers (e.g. Oculus Touch motion controllers). Our approach is flexible because it can be adapted to different hand meshes (e.g. human or robotic hands) and it is also easily customizable. Moreover, it enables interaction with different objects regardless their geometries. In order to validate our proposal, an exhaustive qualitative and quantitative performance analysis has been carried out. On one hand, qualitative evaluation was used in the assessment of abstract aspects, such as motor control, finger movement realism, and interaction realism. On the other hand, for the quantitative evaluation a novel metric has been proposed to visually analyze the performed grips. Performance analysis results indicate that previous experience with our grasping system is not a prerequisite for an enjoyable, natural and intuitive VR interaction experience."
 }
 ```
 ## License
