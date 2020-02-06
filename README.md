@@ -13,9 +13,13 @@ In the following video we can observe the quantitative evaluation where we smoot
 [![videocover1]](https://youtu.be/4sPhLbHpywM)
 
 
+## Important note
+
+Because of copyright, the realistic scenario and hands are not available in the uploaded projects. In provided versions, grasping system works with UE4 mannequin in a basic scenario (such as we can see in the second video performing the quantitative evaluation).
+
 ## Available versions
 
-Project is available for different Unreal Engine versions such as: 4.19, 4.20 and 4.21. A git branch was created for each version, so please select the corresponding branch to access the desired version.
+Project is available for different Unreal Engine versions such as: 4.19, 4.20 and 4.21. A git branch was created for each version, so please select the corresponding branch to access the desired version. Note that master branch is experimental and some plugins are requierd to make the project work. 
 
 ## Paper
 
