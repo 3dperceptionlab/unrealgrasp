@@ -5,13 +5,8 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "PivotTool",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/a220ab040cb844beb355b0f159eabefa"
-		},
-		{
 			"Name": "VictoryBPLibrary",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "http://www.ue4code.com"
 		}
 	]
