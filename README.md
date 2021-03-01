@@ -48,10 +48,13 @@ abstract = "Interaction in virtual reality (VR) environments (e.g. grasping and 
 
 This code is released under the GPL-3.0 License.
 
-## Contact
+## Contact / Authors
 
 Any criticism and improvements are welcome using the issue system from this repository. For other questions, contact the corresponding authors:
 
-- Sergiu Oprea: soprea@dtic.ua.es
-- Pablo Martinez-Gonzalez: pmartinez@dtic.ua.es
-- Alberto Garcia-Garcia: agarcia@dtic.ua.es
+- Sergiu Oprea ([soprea@dtic.ua.es](mailto:soprea@dtic.ua.es))
+- Pablo Martinez-Gonzalez ([pmartinez@dtic.ua.es](mailto:pmartinez@dtic.ua.es))
+- Alberto Garcia-Garcia ([agarcia@dtic.ua.es](mailto:agarcia@dtic.ua.es))
+- John A. Castro-Vargas ([jacastro@dtic.ua.es](mailto:jacastro@dtic.ua.es))
+- Sergio Orts-Escolano ([sorts@ua.es](mailto:sorts@ua.es))
+- Jose Garcia-Rodriguez ([jgarcia@dtic.ua.es](mailto:jgarcia@dtic.ua.es))
